@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Google OAuth secrets and tokens
+credentials*.json
+token*.json
+token*.pickle
+*.pickle
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
